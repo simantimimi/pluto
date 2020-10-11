@@ -4,3 +4,5 @@ import pandas as pd
 import matplotlib as plt
 import numba as nb
 import keras
+import theano
+import ruptures
